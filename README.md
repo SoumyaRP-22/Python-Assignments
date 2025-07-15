@@ -1,17 +1,24 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/3RBO7HhV)
-# Assignment-template
+<h1 align="center">🚀 Python Assignments</h1>
 
-"""
-************************* Python internship 2025 *****************************
-************************* Assignment Day- x **********************************
+<p align="center">
+  A structured collection of Python assignments. These exercises cover essential programming concepts, problem-solving techniques, and practical Python use cases.
+</p>
 
-Problem statement: 
+---
 
+## 🧠 Topics Covered
 
-sample input:
+- Operators and Expressions  
+- Strings: Indexing, Slicing, and Operations  
+- Conditional Statements and `range()`  
+- Loops: `for`, `while`, `break`, `continue`  
+- Lists, Tuples, Sets, and Dictionary Manipulation  
+- List Comprehension  
+- Functions and Function Arguments  
+- Modules and Packages  
+- Lambda Functions, `map()`, `filter()`  
+- Exception Handling  
+- File Handling (read/write operations)  
+- Object-Oriented Programming (Classes, Objects)
 
-
-sample output:
-
-
-"""
+---
